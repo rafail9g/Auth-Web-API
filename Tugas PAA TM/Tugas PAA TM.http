@@ -1,0 +1,6 @@
+@Tugas_PAA_TM_HostAddress = http://localhost:5019
+
+GET {{Tugas_PAA_TM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
