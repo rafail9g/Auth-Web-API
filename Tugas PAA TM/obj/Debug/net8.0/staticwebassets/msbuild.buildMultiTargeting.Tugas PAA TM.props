@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Tugas PAA TM.props" />
+</Project>

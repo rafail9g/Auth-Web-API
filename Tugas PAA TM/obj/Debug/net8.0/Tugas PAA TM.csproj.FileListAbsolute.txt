@@ -1,0 +1,42 @@
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\obj\Debug\net8.0\Tugas PAA TM.csproj.AssemblyReference.cache
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\obj\Debug\net8.0\Tugas PAA TM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\obj\Debug\net8.0\Tugas PAA TM.AssemblyInfoInputs.cache
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\obj\Debug\net8.0\Tugas PAA TM.AssemblyInfo.cs
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\obj\Debug\net8.0\Tugas PAA TM.csproj.CoreCompileInputs.cache
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\obj\Debug\net8.0\Tugas PAA TM.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\obj\Debug\net8.0\Tugas PAA TM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\obj\Debug\net8.0\Tugas PAA TM.sourcelink.json
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\bin\Debug\net8.0\appsettings.json
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\bin\Debug\net8.0\Tugas PAA TM.staticwebassets.endpoints.json
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\bin\Debug\net8.0\Tugas PAA TM.exe
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\bin\Debug\net8.0\Tugas PAA TM.deps.json
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\bin\Debug\net8.0\Tugas PAA TM.runtimeconfig.json
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\bin\Debug\net8.0\Tugas PAA TM.dll
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\bin\Debug\net8.0\Tugas PAA TM.pdb
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\bin\Debug\net8.0\Npgsql.dll
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\obj\Debug\net8.0\scopedcss\bundle\Tugas PAA TM.styles.css
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\obj\Debug\net8.0\staticwebassets\msbuild.Tugas PAA TM.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\obj\Debug\net8.0\staticwebassets\msbuild.Tugas PAA TM.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\obj\Debug\net8.0\staticwebassets\msbuild.build.Tugas PAA TM.props
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Tugas PAA TM.props
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Tugas PAA TM.props
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\obj\Debug\net8.0\Tugas PA.7A2C9EEF.Up2Date
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\obj\Debug\net8.0\Tugas PAA TM.dll
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\obj\Debug\net8.0\refint\Tugas PAA TM.dll
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\obj\Debug\net8.0\Tugas PAA TM.pdb
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\obj\Debug\net8.0\Tugas PAA TM.genruntimeconfig.cache
+C:\Users\rafail\Remed UTS\Tugas PAA TM\Tugas PAA TM\obj\Debug\net8.0\ref\Tugas PAA TM.dll

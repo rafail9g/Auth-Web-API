@@ -1,15 +1,21 @@
+using Tugas_PAA_TM.Repositories;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-
 builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+builder.Services.AddSwaggerGen(c =>
+{
+    c.SwaggerDoc("v1", new() { Title = "Pertanian API", Version = "v1" });
+});
+
+// Dependency Injection — IConfiguration otomatis tersedia, tidak perlu DatabaseConnection
+builder.Services.AddScoped<LahanRepository>();
+builder.Services.AddScoped<TanamanRepository>();
+builder.Services.AddScoped<PanenRepository>();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -17,9 +23,6 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
 app.UseAuthorization();
-
 app.MapControllers();
-
 app.Run();

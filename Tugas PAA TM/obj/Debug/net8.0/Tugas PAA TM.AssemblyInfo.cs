@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tugas PAA TM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+173ae9c09b0cf3583451810a4eeeafef0b9c4261")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tugas PAA TM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tugas PAA TM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
